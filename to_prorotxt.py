@@ -19,4 +19,3 @@ for i in reversed(range(len(graph_def.node))):
 
 # Save as text.
 tf.train.write_graph(graph_def, "", "model1.pbtxt", as_text=True)
-
