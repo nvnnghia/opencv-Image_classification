@@ -1,3 +1,6 @@
+# Pelee opencv-Image_classification
+Pelee model is now supported 
+
 # opencv-Image_classification
 Train Image classification on CIFAR10 using tensorflow and keras. 
 Create a inference using opencv. OpenCV to read tensorflow graph.
